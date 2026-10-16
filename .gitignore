@@ -6,3 +6,12 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 .DS_Store
+
+# macOS
+.DS_Store
+
+# Unity-generated files
+.vscode/
+*.csproj
+*.sln
+*.slnx
