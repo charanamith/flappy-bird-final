@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 389450e7578da4bfca4b9630c612100f
+guid: bee9853edce324664bc30986f19fe995
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8108626318706903885
-    second: HorrorBird_Flap_3_0
-  - first:
-      213: 3744667940460972640
-    second: HorrorBird_Flap_3_1
-  - first:
-      213: -3360227761629571389
-    second: HorrorBird_Flap_3_2
+      213: 1208040086343421634
+    second: image_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -62,7 +56,9 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationMethod: 0
   spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -102,30 +98,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HorrorBird_Flap_3_0
+      name: image_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 7
-        width: 170
-        height: 231
+        x: 0
+        y: 0
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b47711135f587f80800000000000000
-      internalID: -8108626318706903885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HorrorBird_Flap_3_1
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 201
-        width: 63
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06a48f8d6abb7f330800000000000000
-      internalID: 3744667940460972640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HorrorBird_Flap_3_2
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 24
-        width: 41
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c6d9af67a21e51d0800000000000000
-      internalID: -3360227761629571389
+      spriteID: 2ce8eecde02d3c010800000000000000
+      internalID: 1208040086343421634
       vertices: []
       indices: 
       edges: []
@@ -198,9 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HorrorBird_Flap_3_0: -8108626318706903885
-      HorrorBird_Flap_3_1: 3744667940460972640
-      HorrorBird_Flap_3_2: -3360227761629571389
+      image_0: 1208040086343421634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
